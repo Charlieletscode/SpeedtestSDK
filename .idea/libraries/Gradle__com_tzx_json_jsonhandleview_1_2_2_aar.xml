@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tzx.json:jsonhandleview:1.2.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7017e9a0be722960e83ee45262ff1b8e/transformed/jetified-jsonhandleview-1.2.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7017e9a0be722960e83ee45262ff1b8e/transformed/jetified-jsonhandleview-1.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7017e9a0be722960e83ee45262ff1b8e/transformed/jetified-jsonhandleview-1.2.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/191abae3425629ed73e30cfdb5572ce5/transformed/jetified-jsonhandleview-1.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/191abae3425629ed73e30cfdb5572ce5/transformed/jetified-jsonhandleview-1.2.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/191abae3425629ed73e30cfdb5572ce5/transformed/jetified-jsonhandleview-1.2.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tzx.json/jsonhandleview/1.2.2/f8b56011b6bc9d4e0b44bedfc4e98d53db8f1b13/jsonhandleview-1.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tzx.json/jsonhandleview/1.2.2/3a589740ce97e87defc069443db8011a2c855fa0/jsonhandleview-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
